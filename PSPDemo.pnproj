@@ -1,0 +1,1 @@
+<Project name="PSPDemo"><Folder name="include"><File path="include\gfx_def.h"></File><File path="include\mathlib.h"></File><File path="include\file_util.h"></File></Folder><Folder name="source"><File path="source\main.c"></File><File path="source\gfx_def.c"></File><File path="source\mathlib.c"></File></Folder><File path="Makefile"></File></Project>
